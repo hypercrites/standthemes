@@ -9,7 +9,7 @@ A collection of my themes made for the GTA:O mod menu `Stand`.
 
 > [!TIP]
 > - Some themes have alternative Headers inside a folder named *_extras*, you can replace the header by copying it to *Headers/Custom Header/* and rename it to `0.png`
-> - If you want to use a custom font, download `Font.spritefont` and copy it into the *Theme* folder.
+> - If you want to use my custom font, download `Font.spritefont` and copy it into the *Theme* folder.
 
 ## Previews
 ### Nocturnal
