@@ -12,8 +12,11 @@ A collection of my themes made for the GTA:O mod menu `Stand`.
 > - If you want to use a custom font, download `Font.spritefont` and copy it into the *Theme* folder.
 
 ## Previews
-[Nocturnal Theme](https://raw.githubusercontent.com/hypercrites/standthemes/main/Nocturnal/nocturnal_preview.webp)
+### Nocturnal
+[<img src="https://raw.githubusercontent.com/hypercrites/standthemes/main/Nocturnal/nocturnal_preview.webp">](https://github.com/hypercrites/standthemes/tree/main/Nocturnal)
 
-[Trooper Theme](https://raw.githubusercontent.com/hypercrites/standthemes/main/Trooper/trooper_preview.webp)
+### Trooper
+[<img src="https://raw.githubusercontent.com/hypercrites/standthemes/main/Trooper/trooper_preview.webp">](https://github.com/hypercrites/standthemes/tree/main/Trooper)
 
-[HackTheBox Theme](https://raw.githubusercontent.com/hypercrites/standthemes/main/HackTheBox/hackthebox_preview.png)
+### HackTheBox
+[<img src="https://raw.githubusercontent.com/hypercrites/standthemes/main/HackTheBox/hackthebox_preview.png">](https://github.com/hypercrites/standthemes/tree/main/HackTheBox)
