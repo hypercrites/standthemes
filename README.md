@@ -3,7 +3,7 @@ A collection of my themes made for the GTA:O mod menu `Stand`.
 
 > [!NOTE]
 > The installation process should always be the same.
-> wich meins:
+> wich means:
 > 1. Copy the folders *Headers*, *Profiles*, *Tabs* and *Theme* into your Stand-folder.
 > 2. Ingame, go to Stand > Profiles > *Theme name* > Load
 
